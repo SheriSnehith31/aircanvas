@@ -33,7 +33,7 @@ Run the main Python script to launch the AirCanvas application:
 python aircanvas.py
 ```
 
-## Technical Stack
+## Technologies used
 - Python
 - OpenCV
 - Computer Vision
